@@ -67,3 +67,18 @@
 .card img{
     width: 410px;
 }
+input{
+    height: 45px;
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+}
+
+.sub{
+    padding: 100px;
+
+}
+
+footer{
+    text-align: center;
+}
